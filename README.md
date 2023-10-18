@@ -1,6 +1,6 @@
 # daily-run-rate
 Live Demo
-Check out the live demo of this project: Instagram Clone
+Check out the live demo of this project: [Daily-Run-Rate](https://daily-run-rate-4fda76afee54.herokuapp.com/)
 
 
 Clone the repository:
