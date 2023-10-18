@@ -14,7 +14,7 @@ cd client
 npm install
 
 Set up your environment variables:
-Create a .env file in the server directory for your MongoDB connection URL and JWT secret. Ensure you have the necessary Firebase credentials for media storage.
+Create a .env file in the server directory for your MongoDB connection URL.
 
 Run the development server:
 From the 'root' directory
