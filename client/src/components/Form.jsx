@@ -136,11 +136,12 @@ const Container = styled.form`
  width: 10px;
 }
 &::-webkit-scrollbar-thumb {
-  background-color: #62acf6; 
+  background-color: #4394e5; 
 }
     @media screen and (max-width:768px) {
-        width: 85vw;
+        width: 90vw;
         height: 70vh; 
+        padding: 40px 10px;
 
     }
 `
@@ -163,7 +164,7 @@ const Section = styled.section`
    flex-direction: column;
    @media screen and (max-width:768px) {
         width: 60%;
-        
+        gap: 7px;
     }
 `
 const Exclude = styled.div`
